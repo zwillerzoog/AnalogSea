@@ -1,0 +1,47 @@
+html {
+	background-color: #0096E2;
+	font-family: 'Poppins', sans-serif;
+}
+
+main {
+	background-color: white;
+	width: 360px;
+	padding-left: 40px;
+	padding-right: 40px;
+	margin-right: auto;
+	margin-left: auto;
+	padding: 10px;
+}
+
+h1 {
+	font-size: 40px;
+	text-align: center;
+}
+
+input {
+	border: 2px solid lightgrey;
+	width: 286px;
+	height: 21px;
+	padding: 15px;
+	margin-bottom: 30px;
+}
+
+input, button {
+	
+}
+
+button {
+	background-color: lightgreen;
+}
+
+div {
+	text-align: center;
+}
+
+.forgot {
+	color: lightgrey;
+}
+
+.account {
+	color: white;
+}
