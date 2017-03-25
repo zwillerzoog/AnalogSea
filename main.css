@@ -3,6 +3,14 @@ html {
 	font-family: 'Poppins', sans-serif;
 }
 
+img {
+	height: 35px;
+}
+
+p {
+	text-align: center;
+}
+
 main {
 	background-color: white;
 	width: 360px;
@@ -24,18 +32,27 @@ input {
 	height: 21px;
 	padding: 15px;
 	margin-bottom: 30px;
+	font-size: 15px;
 }
 
-input, button {
-	
+label {
+	margin: 20px;
 }
 
 button {
 	background-color: lightgreen;
+	font-size: 15px;
 }
 
 div {
 	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.sign {
+	width: 320px;
+	height: 55px;
 }
 
 .forgot {
